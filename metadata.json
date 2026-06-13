@@ -1,0 +1,6 @@
+{
+  "name": "Daily Meal Planner & Smart Grocery List",
+  "description": "Plan your day's breakfast, lunch, and dinner dynamically using available groceries, cuisine preference, and budget, with automated replacement options and missing ingredient lists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
